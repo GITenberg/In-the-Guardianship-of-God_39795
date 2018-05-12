@@ -1,0 +1,36 @@
+_repo: In-the-Guardianship-of-God_39795
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Steel, Flora Annie Webster
+    alias: Steel, F. A. (Flora Annie)
+    birthdate: 1847
+    deathdate: 1929
+    gutenberg_agent_id: '1973'
+    url: http://www.gutenberg.org/2009/agents/1973
+    wikipedia: http://en.wikipedia.org/wiki/Flora_Annie_Steel
+description: ''
+gutenberg_issued: '2012-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39795'
+  lccn: 03012969
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'India -- Fiction'
+- !lcsh 'Short stories, English'
+tableOfContents: In the guardianship of God -- A bad-character suit -- Fire and ice
+  -- The Shâhbâsh Wallah -- The most nailing bad shot in creation -- The reformer's
+  wife -- The squaring of the gods -- The keeper of the pass -- The perfume of the
+  rose -- Little Henry and his bearer -- The hall of audience -- In a fog -- Gold,
+  frankincense and myrrh -- Surâbhi -- On the Old Salt Road -- The doll-maker -- The
+  skeleton tree.
+title: In the Guardianship of God
+url: http://www.gutenberg.org/ebooks/39795
